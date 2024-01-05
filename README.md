@@ -43,6 +43,6 @@ Files | Description
 [18-binary_tree_uncle.c](./18-binary_tree_uncle.c) | C function that finds the uncle of a node
 
 ### Authors
-* [Nicks](https://github.com/nickssilver) - [@_pronicks](https://twitter.com/_pronicks)
+* George S Mulbah
 
 
